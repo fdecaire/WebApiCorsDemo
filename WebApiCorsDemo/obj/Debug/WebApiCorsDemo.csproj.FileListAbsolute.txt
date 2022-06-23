@@ -28,3 +28,36 @@ c:\users\frank\documents\visual studio 2015\Projects\WebApiCorsDemo\WebApiCorsDe
 c:\users\frank\documents\visual studio 2015\Projects\WebApiCorsDemo\WebApiCorsDemo\bin\System.Web.Http.WebHost.xml
 c:\users\frank\documents\visual studio 2015\Projects\WebApiCorsDemo\WebApiCorsDemo\obj\Debug\WebApiCorsDemo.dll
 c:\users\frank\documents\visual studio 2015\Projects\WebApiCorsDemo\WebApiCorsDemo\obj\Debug\WebApiCorsDemo.pdb
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\csc.exe
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\vbc.exe
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\WebApiCorsDemo.dll.config
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\WebApiCorsDemo.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\WebApiCorsDemo.pdb
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\Newtonsoft.Json.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\System.Net.Http.Formatting.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\System.Web.Cors.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\System.Web.Http.Cors.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\System.Web.Http.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\System.Web.Http.WebHost.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\Newtonsoft.Json.xml
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\System.Web.Http.Cors.xml
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\System.Net.Http.Formatting.xml
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\System.Web.Http.xml
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\bin\System.Web.Http.WebHost.xml
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\obj\Debug\WebApiCorsDemo.csproj.AssemblyReference.cache
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\obj\Debug\WebApiCorsDemo.csproj.CoreCompileInputs.cache
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\obj\Debug\WebApiCorsDemo.csproj.CopyComplete
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\obj\Debug\WebApiCorsDemo.dll
+D:\GitHub\WebApiCorsDemo\WebApiCorsDemo\obj\Debug\WebApiCorsDemo.pdb
